@@ -1,0 +1,2 @@
+#Questo progetto é stato creato con lo scopo di imparare ad utilizzare Python da zero
+Il programma principale di questo progetto é quello di creare un orologio molto semplice che tiene traccia del tempo localmente, sará fatto in modo tale da tenere contati i secondi da quando parte senza rispettare l orario corrente. Lo scopo é quello di imparare Python e non di fare effettivamente un orologio utile. Sono consapevole del fatto che a tutti gli effetti diventerebbe un cronometro se non si apportano modifiche complementari.
